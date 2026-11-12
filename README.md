@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ GUARDIAN CFO
 ### *The AI CFO That Thinks Before It Pays*
 
@@ -508,3 +509,7 @@ Open **[http://localhost:3000](http://localhost:3000)** to access the applicatio
 
 
 
+=======
+# CFO-Guardian
+Guardian CFO is an AI-powered fintech platform combining intelligent payment fraud detection with smart financial management. It helps users assess transaction risks, detect suspicious payments, analyze business expenses, manage budgets, and make safer, smarter financial decisions.
+>>>>>>> a3cea97cc2ca8a9e89f7b3641eaa3184eb7368c0
